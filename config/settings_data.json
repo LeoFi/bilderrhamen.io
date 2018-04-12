@@ -1,0 +1,1000 @@
+{
+  "current": {
+    "background-color": "#ffffff",
+    "body-text-color": "#2e3438",
+    "accent-color": "#7277b4",
+    "heading-color": "#2e3438",
+    "border-color": "#edf0f2",
+    "primary-button-color": "#ffffff",
+    "form-select-background": "#f4f5f5",
+    "form-select-color": "#838b8f",
+    "form-select-border-color": "#d7dcde",
+    "footer-background-color": "#7277b4",
+    "footer-header-color": "#ffffff",
+    "footer-accent-color": "#ffffff",
+    "body_background_image": "",
+    "contrast_background_image": "",
+    "footer_background_image": "",
+    "body_font": "Google_Lato_400,700",
+    "logo_font": "Google_Raleway_400,700",
+    "logo_font_weight": "700",
+    "logo_font_capitalize": true,
+    "heading_font": "Google_Raleway_400,700",
+    "heading_font_weight": "700",
+    "heading_font_capitalize": true,
+    "section_heading_font_weight": "700",
+    "section_heading_font_capitalize": false,
+    "meta_font_weight": "400",
+    "meta_font_capitalize": false,
+    "button_font": "Google_Montserrat_400,700",
+    "button_font_weight": "700",
+    "button_font_capitalize": true,
+    "breadcrumbs_enable": false,
+    "product_show_vendor": false,
+    "product_stock_overlay": false,
+    "product_stock_overlay_show": 5,
+    "social_facebook_url": "",
+    "social_twitter_url": "",
+    "social_google_url": "",
+    "social_pinterest_url": "",
+    "social_instagram_url": "",
+    "social_vimeo_url": "",
+    "social_youtube_url": "",
+    "social_rss_url": "",
+    "show-currency-switcher": false,
+    "currency-switcher-format": "money_with_currency_format",
+    "currency-switcher-supported-currencies": "INR GBP CAD USD AUD EUR JPY",
+    "currency-switcher-default": "USD",
+    "checkout_header_image": "",
+    "checkout_logo_image": "",
+    "checkout_logo_position": "left",
+    "checkout_logo_size": "medium",
+    "checkout_body_background_image": "",
+    "checkout_body_background_color": "#fff",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_image": "",
+    "checkout_sidebar_background_color": "#fafafa",
+    "checkout_heading_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_body_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_accent_color": "#197bbd",
+    "checkout_button_color": "#197bbd",
+    "checkout_error_color": "#e32c2b",
+    "contrast-background-color": "#2E3438",
+    "meta-color": "#838b8f",
+    "error-color": "#b8474f",
+    "header-show-breadcrumbs": false,
+    "sections": {
+      "general-header": {
+        "type": "general-header",
+        "settings": {
+          "header_sticky": true,
+          "show_cart": true,
+          "show_search": true,
+          "header_logo": "shopify:\/\/shop_images\/Bilderrahmen_Logo_3.png",
+          "menu": "main-menu",
+          "menu_style": "header",
+          "mega_nav_trigger": "",
+          "mega_nav_menu_1": "",
+          "mega_nav_menu_2": "",
+          "mega_nav_menu_3": "",
+          "mega_nav_menu_4": "",
+          "color_override": "default",
+          "header_logo_alternate": "",
+          "promotion_style": "accent-style",
+          "promotion_text": "",
+          "promotion_url": ""
+        }
+      },
+      "general-newsletter": {
+        "type": "general-newsletter",
+        "settings": {
+          "enable": true,
+          "style": "default-style",
+          "title": "",
+          "caption": ""
+        }
+      },
+      "module-product-slideshow": {
+        "type": "module-product-slideshow",
+        "settings": {
+          "slideshow_color": "#989ea0",
+          "slideshow_layout": "content-width",
+          "slideshow_transition": "transition-slide",
+          "autoplay": false,
+          "frequency": 5,
+          "thumbnail_pagination": true
+        }
+      },
+      "home-slideshow": {
+        "type": "home-slideshow",
+        "blocks": {
+          "slide-1": {
+            "type": "slide",
+            "settings": {
+              "image": "",
+              "alignment": "center",
+              "title": "Slideshow",
+              "subtitle": "",
+              "caption": "<p>Introduce customers to your shop with lifestyle imagery and product photography.<\/p>",
+              "button": "",
+              "link": ""
+            }
+          },
+          "slide-2": {
+            "type": "slide",
+            "settings": {
+              "image": "",
+              "alignment": "center",
+              "title": "Slideshow",
+              "subtitle": "",
+              "caption": "<p>Introduce customers to your shop with lifestyle imagery and product photography.<\/p>",
+              "button": "",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "slide-1",
+          "slide-2"
+        ],
+        "settings": {
+          "enable": false,
+          "show_shadows": true,
+          "text_color": "#989ea0",
+          "slideshow_layout": "full-width",
+          "slideshow_transition": "transition-slide",
+          "autoplay": false,
+          "frequency": 5
+        }
+      },
+      "home-text-columns-with-images": {
+        "type": "home-text-columns-with-images",
+        "blocks": {
+          "column-1": {
+            "type": "text_column",
+            "settings": {
+              "title": "",
+              "caption": "<p>1.&nbsp;W&auml;hle Deinen&nbsp;Bilderrahmen und Deine Wunschgr&ouml;&szlig;e<\/p>",
+              "button_text": "",
+              "button_link": "",
+              "image": "shopify:\/\/shop_images\/Frame_Icon_1.png"
+            }
+          },
+          "column-2": {
+            "type": "text_column",
+            "settings": {
+              "title": "",
+              "caption": "<p>2. Bild zum Einrahmen umsonst&nbsp;zu uns versenden, oder selbst einrahmen<\/p>",
+              "button_text": "",
+              "button_link": "",
+              "image": "shopify:\/\/shop_images\/Post_Icon_1.png"
+            }
+          },
+          "column-3": {
+            "type": "text_column",
+            "settings": {
+              "title": "",
+              "caption": "<p>3. Dein Rahmen wird in 5 Tagen angefertigt und umsonst geliefert<\/p>",
+              "button_text": "",
+              "button_link": "",
+              "image": "shopify:\/\/shop_images\/Delivery_Icon_1.png"
+            }
+          }
+        },
+        "block_order": [
+          "column-1",
+          "column-2",
+          "column-3"
+        ],
+        "settings": {
+          "style": "contrast-style",
+          "title": "Wie es funktioniert",
+          "button_text": "Wie es funktioniert",
+          "button_link": ""
+        }
+      },
+      "home-featured-product": {
+        "type": "home-featured-product",
+        "settings": {
+          "style": "default-style",
+          "title": "Wähle Deinen Bilderrahmen",
+          "product": "",
+          "description": "<p>Tell customers about the look, feel, and style of your product. Add details on color, materials, sizing, and where it was made.<\/p>",
+          "enable_zoom": true,
+          "product_show_vendor": false,
+          "linked_options": true,
+          "variants_style": "radio",
+          "product_cart_redirect": false
+        }
+      },
+      "general-footer": {
+        "type": "general-footer",
+        "settings": {
+          "show_headings": true,
+          "show_share_buttons": true,
+          "menu_1": "footer",
+          "menu_2": "",
+          "show_payment_icons": false
+        }
+      },
+      "1521493690651": {
+        "type": "home-image-with-text-overlay",
+        "settings": {
+          "style": "default-style",
+          "title": "Rahme Was Du Liebst",
+          "caption": "<p>Einzigartige Bilderrahmen im Wunschformat ab 39&euro;<\/p>",
+          "button_text_1": "Jetzt Einrahmen",
+          "button_link_1": "http:\/\/www.google.com",
+          "button_text_2": "",
+          "button_link_2": "",
+          "image": "shopify:\/\/shop_images\/Banner_Photo_1.jpg",
+          "overlay_opacity_strength": 20
+        }
+      },
+      "1521494939337": {
+        "type": "home-featured-collection",
+        "settings": {
+          "style": "default-style",
+          "title": "Populäre Bilderrahmen",
+          "button": "Bilderrahmen entdecken",
+          "link": "shopify:\/\/collections",
+          "collection": "",
+          "products_in_rows": 4,
+          "number_of_rows": 1
+        }
+      },
+      "1521496696927": {
+        "type": "home-text",
+        "blocks": {
+          "1521496696927-0": {
+            "type": "rich_text",
+            "settings": {
+              "title": "Unser Versprechen",
+              "content": "<p>Your happiness is our top priority. If you&rsquo;re not 100% happy with your order for any reason, let us know and we&rsquo;ll make it right.<\/p>",
+              "button_text_block": "Get Started",
+              "button_link_block": "shopify:\/\/collections"
+            }
+          }
+        },
+        "block_order": [
+          "1521496696927-0"
+        ],
+        "settings": {
+          "style": "contrast-style",
+          "show_borders": false
+        }
+      },
+      "1521498765934": {
+        "type": "home-text-columns-with-image-inverted",
+        "blocks": {
+          "1521498765934-0": {
+            "type": "text_column",
+            "settings": {
+              "title": "UPLOAD A PHOTO",
+              "caption": "<p>You upload a photo from your computer, phone or Instagram feed for us to custom frame.<\/p>",
+              "image": "",
+              "button_text_block": "Buy Me",
+              "button_link_block": "shopify:\/\/collections"
+            }
+          },
+          "1521498765934-1": {
+            "type": "text_column",
+            "settings": {
+              "title": "MAIL IN YOUR ART",
+              "caption": "<p>You send in physical art and objects for us to custom frame. We provide free, prepaid packaging!<\/p>",
+              "image": "",
+              "button_text_block": "Frame Me",
+              "button_link_block": "shopify:\/\/collections"
+            }
+          }
+        },
+        "block_order": [
+          "1521498765934-0",
+          "1521498765934-1"
+        ],
+        "settings": {
+          "style": "default-style",
+          "title": "Zwei einfache Wege Einzurahmen"
+        }
+      }
+    },
+    "content_for_index": [
+      "1521493690651",
+      "home-featured-product",
+      "home-text-columns-with-images",
+      "1521498765934",
+      "1521494939337",
+      "1521496696927"
+    ]
+  },
+  "presets": {
+    "Home": {
+      "background-color": "#ffffff",
+      "contrast-background-color": "#FAF7F6",
+      "body-text-color": "#988980",
+      "accent-color": "#FF5555",
+      "heading-color": "#68574D",
+      "meta-color": "#b7aba3",
+      "error-color": "#B84949",
+      "border-color": "#EDE7E4",
+      "primary-button-color": "#ffffff",
+      "form-select-background": "#ede7e4",
+      "form-select-color": "#988980",
+      "form-select-border-color": "#ede7e4",
+      "footer-background-color": "#2C211B",
+      "footer-header-color": "#ffffff",
+      "footer-accent-color": "#988980",
+      "body_font": "Google_Roboto_400,700",
+      "logo_font": "Google_Bitter_400,700",
+      "logo_font_weight": "700",
+      "heading_font": "Google_Bitter_400,700",
+      "heading_font_weight": "700",
+      "section_heading_font_weight": "700",
+      "meta_font_weight": "400",
+      "button_font": "Google_Roboto_400,700",
+      "button_font_weight": "700",
+      "logo_font_capitalize": true,
+      "heading_font_capitalize": false,
+      "section_heading_font_capitalize": true,
+      "meta_font_capitalize": true,
+      "button_font_capitalize": true,
+      "header-show-breadcrumbs": false,
+      "sections": {
+        "general-header": {
+          "type": "general-header",
+          "settings": {
+            "menu_style": "drawer",
+            "color_override": "default"
+          }
+        },
+        "general-newsletter": {
+          "type": "general-newsletter",
+          "settings": {
+            "enable": true,
+            "style": "contrast-style"
+          }
+        },
+        "module-product-slideshow": {
+          "type": "module-product-slideshow",
+          "settings": {
+            "slideshow_color": "#68574d",
+            "slideshow_layout": "full-bleed",
+            "slideshow_transition": "transition-slide",
+            "autoplay": true,
+            "frequency": 5
+          }
+        },
+        "home-slideshow": {
+          "type": "home-slideshow",
+          "blocks": {
+            "slide-1": {
+              "type": "slide",
+              "settings": {
+                "alignment": "center"
+              }
+            },
+            "slide-2": {
+              "type": "slide",
+              "settings": {
+                "alignment": "center"
+              }
+            }
+          },
+          "block_order": [
+            "slide-1",
+            "slide-2"
+          ],
+          "settings": {
+            "enable": true,
+            "text_color": "#68574d",
+            "slideshow_layout": "full-bleed",
+            "autoplay": true,
+            "frequency": 6
+          }
+        },
+        "home-image-with-text": {
+          "type": "home-image-with-text",
+          "settings": {
+            "style": "default-style",
+            "media_layout": "regular"
+          }
+        },
+        "home-text-columns-with-images": {
+          "type": "home-text-columns-with-images",
+          "blocks": {
+            "column-1": {
+              "type": "text_column",
+              "settings": {}
+            },
+            "column-2": {
+              "type": "text_column",
+              "settings": {}
+            },
+            "column-3": {
+              "type": "text_column",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "column-1",
+            "column-2",
+            "column-3"
+          ],
+          "settings": {
+            "style": "contrast-style"
+          }
+        },
+        "home-testimonials": {
+          "type": "home-testimonials",
+          "blocks": {
+            "testimonial-1": {
+              "type": "testimonial",
+              "settings": {}
+            },
+            "testimonial-2": {
+              "type": "testimonial",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "testimonial-1",
+            "testimonial-2"
+          ],
+          "settings": {
+            "style": "default-style"
+          }
+        },
+        "home-featured-product": {
+          "type": "home-featured-product",
+          "settings": {
+            "style": "contrast-style",
+            "title": "Featured product"
+          }
+        },
+        "home-instagram": {
+          "type": "home-instagram",
+          "settings": {
+            "style": "default-style"
+          }
+        }
+      },
+      "content_for_index": [
+        "home-image-with-text",
+        "home-text-columns-with-images",
+        "home-testimonials",
+        "home-featured-product",
+        "home-instagram"
+      ]
+    },
+    "Tech": {
+      "background-color": "#ffffff",
+      "contrast-background-color": "#E05E60",
+      "body-text-color": "#51595D",
+      "accent-color": "#2FC496",
+      "heading-color": "#E05E60",
+      "meta-color": "#a0a2a3",
+      "error-color": "#b84949",
+      "border-color": "#D7DCDE",
+      "primary-button-color": "#ffffff",
+      "footer-background-color": "#272B32",
+      "footer-header-color": "#ffffff",
+      "footer-accent-color": "#2CBB84",
+      "form-select-background": "#f4f5f5",
+      "form-select-color": "#2cbb84",
+      "form-select-border-color": "#d7dcde",
+      "body_font": "Google_Open+Sans_400,700",
+      "logo_font": "Google_Open+Sans_400,700",
+      "logo_font_weight": "700",
+      "heading_font": "Google_Open+Sans_400,700",
+      "heading_font_weight": "700",
+      "section_heading_font_weight": "700",
+      "meta_font_weight": "400",
+      "button_font": "Google_Roboto_400,700",
+      "button_font_weight": "700",
+      "logo_font_capitalize": false,
+      "heading_font_capitalize": false,
+      "section_heading_font_capitalize": false,
+      "meta_font_capitalize": false,
+      "button_font_capitalize": true,
+      "header-show-breadcrumbs": false,
+      "sections": {
+        "general-header": {
+          "type": "general-header",
+          "settings": {
+            "header_sticky": true,
+            "menu_style": "header"
+          }
+        },
+        "general-newsletter": {
+          "type": "general-newsletter",
+          "settings": {
+            "enable": true,
+            "style": "default-style"
+          }
+        },
+        "module-product-slideshow": {
+          "type": "module-product-slideshow",
+          "settings": {
+            "slideshow_color": "#2e3438",
+            "slideshow_layout": "content-width",
+            "autoplay": false
+          }
+        },
+        "home-slideshow": {
+          "type": "home-slideshow",
+          "blocks": {
+            "slide-1": {
+              "type": "slide",
+              "settings": {
+                "alignment": "center"
+              }
+            },
+            "slide-2": {
+              "type": "slide",
+              "settings": {
+                "alignment": "center"
+              }
+            }
+          },
+          "block_order": [
+            "slide-1",
+            "slide-2"
+          ],
+          "settings": {
+            "enable": false,
+            "text_color": "#2e3438",
+            "slideshow_layout": "content-width",
+            "autoplay": false
+          }
+        },
+        "home-promotion": {
+          "type": "home-promotion",
+          "settings": {
+            "style": "default-style"
+          }
+        },
+        "home-image-with-text": {
+          "type": "home-image-with-text",
+          "settings": {
+            "style": "contrast-style",
+            "media_layout": "regular"
+          }
+        },
+        "home-alternating-content": {
+          "type": "home-alternating-content",
+          "blocks": {
+            "home-alternating-content-1": {
+              "type": "image",
+              "settings": {
+                "media_alignment": "left"
+              }
+            },
+            "home-alternating-content-2": {
+              "type": "image",
+              "settings": {
+                "media_alignment": "right"
+              }
+            }
+          },
+          "block_order": [
+            "home-alternating-content-1",
+            "home-alternating-content-2"
+          ],
+          "settings": {
+            "style": "default-style",
+            "title": "Alternating content",
+            "show_borders": false
+          }
+        },
+        "home-testimonials": {
+          "type": "home-testimonials",
+          "blocks": {
+            "testimonial-1": {
+              "type": "testimonial",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "testimonial-1"
+          ],
+          "settings": {
+            "style": "contrast-style"
+          }
+        },
+        "home-featured-product": {
+          "type": "home-featured-product",
+          "settings": {
+            "style": "default-style",
+            "title": "Featured product"
+          }
+        },
+        "home-instagram": {
+          "type": "home-instagram",
+          "settings": {
+            "style": "contrast-style"
+          }
+        }
+      },
+      "content_for_index": [
+        "home-promotion",
+        "home-image-with-text",
+        "home-alternating-content",
+        "home-testimonials",
+        "home-featured-product",
+        "home-instagram"
+      ]
+    },
+    "Cloth": {
+      "background-color": "#ffffff",
+      "contrast-background-color": "#2E3438",
+      "body-text-color": "#838B8F",
+      "accent-color": "#729BB4",
+      "heading-color": "#2E3438",
+      "meta-color": "#838b8f",
+      "error-color": "#b8474f",
+      "border-color": "#EDF0F2",
+      "primary-button-color": "#ffffff",
+      "form-select-background": "#F4F5F5",
+      "form-select-color": "#838B8F",
+      "form-select-border-color": "#D7DCDE",
+      "footer-background-color": "#729BB4",
+      "footer-header-color": "#ffffff",
+      "footer-accent-color": "#ffffff",
+      "body_font": "Google_Open+Sans_400,700",
+      "logo_font": "Google_Open+Sans_400,700",
+      "logo_font_weight": "700",
+      "heading_font": "Google_Volkhov_400,700",
+      "heading_font_weight": "700",
+      "section_heading_font_weight": "400",
+      "meta_font_weight": "400",
+      "button_font": "Google_Volkhov_400,700",
+      "button_font_weight": "700",
+      "logo_font_capitalize": true,
+      "heading_font_capitalize": false,
+      "section_heading_font_capitalize": true,
+      "meta_font_capitalize": true,
+      "button_font_capitalize": true,
+      "header-show-breadcrumbs": false,
+      "sections": {
+        "general-header": {
+          "type": "general-header",
+          "settings": {
+            "menu_style": "below-header"
+          }
+        },
+        "general-newsletter": {
+          "type": "general-newsletter",
+          "settings": {
+            "enable": true,
+            "style": "contrast-style"
+          }
+        },
+        "module-product-slideshow": {
+          "type": "module-product-slideshow",
+          "settings": {
+            "slideshow_color": "#989ea0",
+            "slideshow_layout": "content-width",
+            "autoplay": false
+          }
+        },
+        "home-slideshow": {
+          "type": "home-slideshow",
+          "blocks": {
+            "slide-1": {
+              "type": "slide",
+              "settings": {
+                "alignment": "center"
+              }
+            },
+            "slide-2": {
+              "type": "slide",
+              "settings": {
+                "alignment": "center"
+              }
+            }
+          },
+          "block_order": [
+            "slide-1",
+            "slide-2"
+          ],
+          "settings": {
+            "enable": true,
+            "show_shadows": true,
+            "text_color": "#989ea0",
+            "slideshow_layout": "full-width",
+            "autoplay": false
+          }
+        },
+        "home-image-with-text": {
+          "type": "home-image-with-text",
+          "settings": {
+            "style": "default-style",
+            "media_layout": "regular"
+          }
+        },
+        "home-text-columns-with-images": {
+          "type": "home-text-columns-with-images",
+          "blocks": {
+            "column-1": {
+              "type": "text_column",
+              "settings": {}
+            },
+            "column-2": {
+              "type": "text_column",
+              "settings": {}
+            },
+            "column-3": {
+              "type": "text_column",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "column-1",
+            "column-2",
+            "column-3"
+          ],
+          "settings": {
+            "style": "contrast-style"
+          }
+        },
+        "home-testimonials": {
+          "type": "home-testimonials",
+          "blocks": {
+            "testimonial-1": {
+              "type": "testimonial",
+              "settings": {}
+            },
+            "testimonial-2": {
+              "type": "testimonial",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "testimonial-1",
+            "testimonial-2"
+          ],
+          "settings": {
+            "style": "default-style"
+          }
+        },
+        "home-featured-product": {
+          "type": "home-featured-product",
+          "settings": {
+            "style": "default-style",
+            "title": "Featured product"
+          }
+        },
+        "home-instagram": {
+          "type": "home-instagram",
+          "settings": {
+            "style": "default-style"
+          }
+        },
+        "home-alternating-content": {
+          "type": "home-alternating-content",
+          "blocks": {
+            "home-alternating-content-1": {
+              "type": "image",
+              "settings": {
+                "media_alignment": "left"
+              }
+            },
+            "home-alternating-content-2": {
+              "type": "image",
+              "settings": {
+                "media_alignment": "right"
+              }
+            },
+            "home-alternating-content-3": {
+              "type": "image",
+              "settings": {
+                "media_alignment": "left"
+              }
+            }
+          },
+          "block_order": [
+            "home-alternating-content-1",
+            "home-alternating-content-2",
+            "home-alternating-content-3"
+          ],
+          "settings": {
+            "style": "default-style",
+            "title": "Alternating content",
+            "show_borders": true
+          }
+        },
+        "home-featured-collection": {
+          "type": "home-featured-collection",
+          "settings": {
+            "style": "default-style",
+            "title": "Featured collection"
+          }
+        },
+        "home-logo-list": {
+          "type": "home-logo-list",
+          "blocks": {
+            "logo-1": {
+              "type": "logo",
+              "settings": {}
+            },
+            "logo-2": {
+              "type": "logo",
+              "settings": {}
+            },
+            "logo-3": {
+              "type": "logo",
+              "settings": {}
+            },
+            "logo-4": {
+              "type": "logo",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "logo-1",
+            "logo-2",
+            "logo-3",
+            "logo-4"
+          ],
+          "settings": {
+            "style": "default-style"
+          }
+        }
+      },
+      "content_for_index": [
+        "home-image-with-text",
+        "home-alternating-content",
+        "home-text-columns-with-images",
+        "home-testimonials",
+        "home-featured-product",
+        "home-featured-collection",
+        "home-logo-list",
+        "home-instagram"
+      ]
+    },
+    "Art": {
+      "background-color": "#ffffff",
+      "contrast-background-color": "#6FC3C4",
+      "body-text-color": "#060C0C",
+      "accent-color": "#6fc3c4",
+      "heading-color": "#060C0C",
+      "meta-color": "#a0a2a3",
+      "error-color": "#b84949",
+      "border-color": "#e8eced",
+      "primary-button-color": "#ffffff",
+      "form-select-background": "#ffffff",
+      "form-select-color": "#6a9898",
+      "form-select-border-color": "#b8c8c8",
+      "footer-background-color": "#050D0E",
+      "footer-header-color": "#ffffff",
+      "footer-accent-color": "#5FB8B7",
+      "body_font": "Google_Montserrat_400,700",
+      "logo_font": "Google_Montserrat_400,700",
+      "logo_font_weight": "700",
+      "heading_font": "Google_Montserrat_400,700",
+      "heading_font_weight": "700",
+      "section_heading_font_weight": "700",
+      "meta_font_weight": "400",
+      "button_font": "Google_Montserrat_400,700",
+      "button_font_weight": "700",
+      "logo_font_capitalize": true,
+      "heading_font_capitalize": false,
+      "section_heading_font_capitalize": true,
+      "meta_font_capitalize": true,
+      "button_font_capitalize": true,
+      "header-show-breadcrumbs": false,
+      "sections": {
+        "general-header": {
+          "type": "general-header",
+          "settings": {
+            "header_sticky": true,
+            "menu_style": "header"
+          }
+        },
+        "general-newsletter": {
+          "type": "general-newsletter",
+          "settings": {
+            "enable": true,
+            "style": "contrast-style"
+          }
+        },
+        "module-product-slideshow": {
+          "type": "module-product-slideshow",
+          "settings": {
+            "slideshow_color": "#060c0c",
+            "slideshow_layout": "content-width",
+            "autoplay": false
+          }
+        },
+        "home-slideshow": {
+          "type": "home-slideshow",
+          "blocks": {
+            "slide-1": {
+              "type": "slide",
+              "settings": {
+                "alignment": "center"
+              }
+            },
+            "slide-2": {
+              "type": "slide",
+              "settings": {
+                "alignment": "center"
+              }
+            }
+          },
+          "block_order": [
+            "slide-1",
+            "slide-2"
+          ],
+          "settings": {
+            "enable": false,
+            "text_color": "#060c0c",
+            "slideshow_layout": "full-width",
+            "autoplay": false
+          }
+        },
+        "home-promotion": {
+          "type": "home-promotion",
+          "settings": {
+            "style": "default-style"
+          }
+        },
+        "home-image-with-text": {
+          "type": "home-image-with-text",
+          "settings": {
+            "style": "contrast-style",
+            "media_layout": "regular"
+          }
+        },
+        "home-featured-product": {
+          "type": "home-featured-product",
+          "settings": {
+            "style": "default-style",
+            "title": "Featured product"
+          }
+        },
+        "home-featured-collection": {
+          "type": "home-featured-collection",
+          "settings": {
+            "style": "contrast-style",
+            "title": "Featured collection"
+          }
+        },
+        "home-testimonials": {
+          "type": "home-testimonials",
+          "blocks": {
+            "testimonial-1": {
+              "type": "testimonial",
+              "settings": {}
+            },
+            "testimonial-2": {
+              "type": "testimonial",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "testimonial-1",
+            "testimonial-2"
+          ],
+          "settings": {
+            "style": "default-style"
+          }
+        },
+        "home-instagram": {
+          "type": "home-instagram",
+          "settings": {
+            "style": "contrast-style"
+          }
+        }
+      },
+      "content_for_index": [
+        "home-promotion",
+        "home-image-with-text",
+        "home-featured-product",
+        "home-featured-collection",
+        "home-testimonials",
+        "home-instagram"
+      ]
+    }
+  }
+}

@@ -1,0 +1,302 @@
+{
+  "general": {
+    "404": {
+      "title": "Seite nicht gefunden",
+      "link": "Weiter Shoppen",
+      "subtext_html": "Die Seite konnte nicht gefunden werden {{ link }}."
+    },
+    "general": {
+      "account": "Account",
+      "email": "Email",
+      "email_placeholder": "meine@email.de",
+      "login": "Login",
+      "logout": "Logout",
+      "message": "Nachricht",
+      "my_account": "Mein Account",
+      "name": "Name",
+      "name_placeholder": "Dein Name",
+      "password": "Passwort",
+      "price": "Preis",
+      "quantity": "Quantität",
+      "remove": "Entfernen",
+      "search_placeholder": "Suche",
+      "submit": "Senden",
+      "subtotal": "Zwischensumme",
+      "total": "Summe",
+      "subscribe": "Abonnieren",
+      "copyright_text_html": "&copy; {{ year }}. Alle Rechte vorbehalten.",
+      "copyright_credit_html": "Mit Liebe in Berlin gemacht!"
+    },
+    "breadcrumbs": {
+      "home": "Home",
+      "collections": "Kollektionen",
+      "all_products": "Alle Produkte",
+      "products": "Produkte",
+      "tagged": "Tagged"
+    },
+    "search": {
+      "header": "Suche",
+      "header_results": "Suchergebnisse",
+      "no_articles": "Es wurden keine Produkte oder Seiten gefunden '{{ search_terms }}'.",
+      "no_products": "Es wurden keine Produkte gefunden '{{ search_terms }}'.",
+      "no_results": "Deine Suche nach '{{ search_terms }}' hat keine Ergebnisse.",
+      "pages": "Seiten",
+      "products": "Produkte",
+      "results_text": "Suche nach '{{ search_terms }}' hat folgende Ergebnisse: {{ results_count }} {{ results }}",
+      "results": {
+        "one": "Ergebnis",
+        "other": "Ergebnisse"
+      },
+      "submit": "Suchen"
+    },
+    "pagination": {
+      "summary": "Seite {{ current_page }} von {{ pages }}",
+      "previous": "Zurück",
+      "next": "Vor"
+    },
+    "social": {
+      "title": "Finde uns online",
+      "share_title": "Weitersagen!",
+      "byline": "Wir würden uns sehr freuen, wenn du uns empfehlen würdest!",
+      "facebook": "Teilen",
+      "twitter": "Tweeten",
+      "twitter_follow": "Folge uns @{{ username }}",
+      "pinterest": "Pin it",
+      "fancy": "Fancy",
+      "google": "Hinzufügen"
+    },
+    "mailing_list": {
+      "message": "Vielen Dank!"
+    }
+  },
+  "blogs": {
+    "blog": {
+      "empty": "This blog is empty!",
+      "posts_tagged": "Posts tagged"
+    },
+    "article_item": {
+      "comment_pending": "Your comment has been submitted but needs to be approved by the store before posting.",
+      "comment_posted": "Your comment bas been successfully posted! Refresh the page to see it.",
+      "comment_count": {
+        "one": "comment",
+        "other": "comments"
+      },
+      "error_message": "Error! Something went wrong.",
+      "filed_under": "Filed under",
+      "tags": "Tags:",
+      "leave_comment": "Leave a comment:",
+      "posted_by": "Posted by",
+      "read_more": "Read more..."
+    }
+  },
+  "cart": {
+    "general": {
+      "breadcrumbs": "Warenkorb",
+      "header": "Warenkorb",
+      "currency_note_html": "Notiz: Alle Bestellungen werden in <strong>{{ currency }}<\/strong> im aktuellen Wechselkurs abgerechnet.",
+      "empty": "Du hast noch nichts in Deinem Warenkorb",
+      "continue": "Weiter Shoppen",
+      "instructions_title": "Besondere Angabe",
+      "instructions_placeholder": "Notiz hinterlassen",
+      "not_available": "Nicht im Sortiment",
+      "okay": "Okay",
+      "stock_level": "Entschuldigung, wir haben nur {{ stock_count }} auf Lager.",
+      "tax_and_shipping": "zzgl. Steuern und Versand",
+      "update_button": "Aktualisieren",
+      "submit": "Zur Kasse"
+    },
+    "shipping_calculator": {
+      "header": "Shipping calculator",
+      "country": "Select country",
+      "province": "Select province",
+      "error": "Error: zip \/ postal code {{ error_message }}",
+      "submit": "Calculate",
+      "working": "Calculating...",
+      "rates_html": "There are {{ number_of_rates }} shipping rates available for {{ address }}, starting at {{ rate }}.",
+      "rate": "There is one shipping rate available for {{ address }}.",
+      "no_rates": "We do not ship to this destination.",
+      "rate_values_html": "{{ rate_title }} at {{ rate }}"
+    }
+  },
+  "collections": {
+    "listing": {
+      "header": "Kollektionen"
+    },
+    "collection": {
+      "all_products": "Alle",
+      "browse": "Nach Tag browsen",
+      "clear": "Filter entfernen",
+      "no_products": "Diese Kollektion ist leer"
+    }
+  },
+  "contact": {
+    "general": {
+      "header": "Kontaktiere uns",
+      "success": "Deine Nachricht wurde versendet. Wir melden uns zeitnah bei Dir.",
+      "error": "Bitte die markierten Felder füllen."
+    }
+  },
+  "customer": {
+    "general": {
+      "password_confirmation": "Repeat password",
+      "back_to_account": "Back to account",
+      "or": "or",
+      "cancel": "Cancel"
+    },
+    "account": {
+      "logged_in_as_html": "Logged in as {{ user_email }}",
+      "view_addresses": "View addresses"
+    },
+    "orders": {
+      "order": "Order",
+      "payment_status": "Payment",
+      "fulfillment_status": "Fulfillment",
+      "no_orders": "You haven't placed any orders yet."
+    },
+    "activate_account": {
+      "header": "Activate your account",
+      "benefits": "Sign up for an account to take advantage of order history as well as pre-filled forms during checkout on subsequent orders.",
+      "breadcrumb": "Activate Account",
+      "subtext": "To activate your account, choose a password and enter it below.",
+      "decline": "decline activation",
+      "submit": "Register"
+    },
+    "addresses": {
+      "header": "Addresses",
+      "default_address": "Default address",
+      "add_new": "Add new address",
+      "new_address_link": "new address",
+      "no_address_html": "You don't have any addresses saved to your account. Speed up your checkout process by adding a {{ new_address }}.",
+      "edit": "Edit",
+      "delete": "Delete",
+      "first_name": "First Name",
+      "last_name": "Last Name",
+      "company": "Company",
+      "address1": "Address line 1",
+      "address2": "Address line 2",
+      "city": "City",
+      "country": "Country",
+      "phone": "Phone",
+      "province": "State \/ Province",
+      "zip": "ZIP \/ Postal code",
+      "set_as_default": "Set as Default Address?"
+    },
+    "login": {
+      "header": "Log in",
+      "forgot_password": "Forgot your password?",
+      "error": "Sorry! Please try that again.",
+      "new_customer": "New customer?",
+      "sign_up": "Sign up for an account"
+    },
+    "register": {
+      "header": "Register"
+    },
+    "reset_password": {
+      "header": "Reset Password",
+      "breadcrumb": "Reset Password",
+      "error": "There was an error resetting your password, please try again.",
+      "new_password_for": "Enter a new password for {{ email }}:",
+      "submit": "Reset",
+      "subtext": "We’ll send you an email to reset your password.",
+      "successful_reset": "We've sent you an email containing a password reset link. If you remember your password before you receive our email, feel free to log in below:"
+    },
+    "guest_login": {
+      "no_login": "Checkout as guest. No login required.",
+      "checkout_as_guest": "Checkout as guest"
+    },
+    "order": {
+      "header": "Order {{ order_number }}",
+      "billing_address": "Billing address",
+      "shipping_address": "Shipping address",
+      "shipping": "Shipping",
+      "tax": "Tax",
+      "fulfillment_status": "Fulfillment Status"
+    }
+  },
+  "gift_cards": {
+    "issued": {
+      "title": "Here's your {{ value }} gift card for {{ shop }}!",
+      "subtext": "Here's your gift card!",
+      "disabled": "Disabled",
+      "expired": "Expired on {{ expiry }}",
+      "active": "Expires on {{ expiry }}",
+      "redeem": "Use this code at checkout to redeem your gift card",
+      "shop_link": "Start shopping",
+      "print": "Print",
+      "balance": "{{ balance }} left"
+    }
+  },
+  "password": {
+    "general": {
+      "opening_soon": "We’ll be open real soon!",
+      "password_caption_html": "Do you have a password? {{ trigger }}",
+      "enter_password": "Enter password",
+      "cancel": "Cancel",
+      "submit": "Submit",
+      "subscribe": "Subscribe",
+      "subscribe_form_success": "Thanks for signing up!"
+    }
+  },
+  "products": {
+    "product": {
+      "add_to_cart": "In den Warenkorb",
+      "added_to_cart": "Zum Warenkorb hinzugefügt",
+      "buy_now": "Jetzt kaufen",
+      "from": "ab",
+      "set_quantity": "Bitte die Anzahl angaben.",
+      "on_sale": "Sale",
+      "processing": "Laden...",
+      "sold_out": "Ausverkauft",
+      "stock_level": "Nur {{ stock_count }} übrig!",
+      "cart_link": "Warenkorb",
+      "continue_link": "weiter shoppen",
+      "checkout_link": "zur Kasse",
+      "success_html": "** product ** wurde Deinem Warenkorb {{ cart_link }} hinzugefügt. Hier geht es zur Kasse {{ checkout_link }}.",
+      "unavailable": "Nicht verfügbar",
+      "no_image_available": "Kein Bild verfügbar"
+    },
+    "related_products": {
+      "header": "Related Products"
+    }
+  },
+  "onboarding": {
+    "general": {
+      "theme_settings_link": "Theme settings"
+    },
+    "blog": {
+      "title": "Your post's title",
+      "excerpt": "Your store hasn’t published any blog posts yet. A blog can be used to talk about new product launches, tips, or other news you want to share with your customers. You can check out Shopify’s ecommerce blog for inspiration and advice for your own store and blog."
+    },
+    "collection": {
+      "title": "Collection title"
+    },
+    "featured_product": {
+      "title": "Product title",
+      "description": "Tell customers about the look, feel, and style of your product. Add details on color, materials, sizing, and where it was made.",
+      "vendor": "Product vendor"
+    },
+    "featured_collection": {
+      "product_title": "Product title",
+      "product_vendor": "Product vendor"
+    },
+    "twitter": {
+      "tweet": "Connect your Twitter account to engage customers on and off your site!",
+      "username": "youraccount"
+    }
+  },
+  "date_formats": {
+    "short_month": "%b %d, %Y",
+    "long_month": "%B %d, %Y",
+    "gift_card_expiry": "%d\/%m\/%y"
+  },
+  "structured_data": {
+    "breadcrumbs": {
+      "cart": "Cart",
+      "collections": "Collections",
+      "page": "Page {{ page }}",
+      "products": "Products",
+      "search": "Search",
+      "tags": "Tagged \"{{ tags }}\""
+    }
+  }
+}
